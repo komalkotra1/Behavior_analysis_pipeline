@@ -10,7 +10,7 @@ This project processes and analyzes free flight behavior of Drosophila in a cham
 
 ```bash
 # Clone the repository
-[git clone https://github.com/komalkotra1/Behavior_analysis_pipeline.git
+git clone https://github.com/komalkotra1/Behavior_analysis_pipeline.git
 
 # Install required packages
 pip install -r requirements.txt
